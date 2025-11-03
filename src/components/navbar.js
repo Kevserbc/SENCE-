@@ -79,16 +79,16 @@ export default function Navbar() {
 
             {/* 🔹 Şık WhatsApp İletişim Butonu */}
 <li>
-  <a
-    href="https://wa.me/905327346640"
-    target="_blank"
-    rel="noopener noreferrer"
-    className="ml-6 px-5 py-2 rounded-xl border border-yellow-400 text-yellow-400 font-semibold 
-               hover:bg-yellow-400 hover:text-gray-900 transition-all duration-300 
-               shadow-md hover:shadow-yellow-400/40"
-  >
-    İletişim
-  </a>
+ <a 
+  href="https://wa.me/905327346640"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="border border-yellow-400 text-yellow-400 px-5 py-2 rounded-full hover:bg-yellow-400 hover:text-black transition-all duration-300"
+>
+  İletişim
+</a>
+
+
 </li>
 
           </ul>
